@@ -1,0 +1,4 @@
+The original assignment was to write a program that could determine whether any knights could attack each other
+on an arbitrarily large chess board given a list of coordinate strings for the knights.
+
+The average-case runtime complexity and worst-case space complexity could not exceed O(n).
