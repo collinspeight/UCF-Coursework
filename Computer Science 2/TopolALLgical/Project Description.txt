@@ -1,4 +1,8 @@
-The original assignment was to write a program that could determine all valid topological sorts for an arbitrary
-graph using backtracking.
+Project Description: Write a program that can determine all valid topological sorts for an arbitrary graph 
+using backtracking.
 
-The best-case runtime complexity could be no worse than O(n^2).
+Timeline: Approx. 2 weeks
+
+NOTES:
+	- Completed individually
+	- The best-case runtime complexity could be no worse than O(n^2).
