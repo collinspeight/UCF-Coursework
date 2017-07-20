@@ -1,5 +1,4 @@
-Project Description: Create a compiler for the PL/0 programming language. Write the virtual machine, parser,
-and lexer and then merge them into a working compiler.
+Project Description: Create a compiler for the PL/0 programming language. Write the virtual machine, parser, and lexer and then merge them into a working compiler.
 
 Timeline: Approx. 3 months
 
