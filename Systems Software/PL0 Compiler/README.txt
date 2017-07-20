@@ -1,5 +1,8 @@
-Instructions:
+Project Description: Create a compiler for the PL/0 programming language. Write the virtual machine, parser,
+and lexer and then merge them into a working compiler.
 
-1. To run the compiler, type "make" in the commandline.
+Timeline: Approx. 3 months
 
-2. Type "./compile <input> <output>" with <input> being the input file to the lexer and <output> being the output file from the parser.
+NOTES:
+	- Completed in a group
+	- All individual parts work well on their own but are buggy when merged together.
