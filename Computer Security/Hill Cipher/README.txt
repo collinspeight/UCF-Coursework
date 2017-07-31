@@ -3,5 +3,5 @@ Project Description: A program that encrypts the plain-text in a given file usin
 Timeline: Approx. 2 weeks
 
 NOTES:
-	- Completed individually
-	- The input is taken from the command line and consists of the name of the file storing the encryption key followed by the name of           the file to be encrypted.
+- Completed individually
+- The input is taken from the command line and consists of the name of the file storing the encryption key followed by the name of the file to be encrypted.
