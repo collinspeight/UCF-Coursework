@@ -4,4 +4,4 @@ Timeline: Approx. 2 weeks
 
 NOTES:
 	- Completed individually
-	- The input is taken from the command line and consists of the name of the file storing the encryption key followed by the name of the file to be encrypted.
+	- The input is taken from the command line and consists of the name of the file storing the encryption key followed by the name of           the file to be encrypted.
